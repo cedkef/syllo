@@ -11,7 +11,7 @@
 python main.py
 ```
 ## how to play
-(ex.png)
+![alt text](ex.png)
 
 ## 조작법
 
