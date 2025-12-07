@@ -1,0 +1,1000 @@
+computer:an electronic machine that stores and processes data and performs calculations
+mood:a temporary state of mind or feeling
+simple:easy to understand or do; not complicated
+bright:emitting or reflecting much light; shining
+heavy:of great weight; difficult to lift or move
+light:of little weight; easy to lift or move
+quick:moving or acting with speed
+slow:moving or operating at a low speed
+happy:feeling or showing pleasure or contentment
+parasocial:involving or relating to a connection that someone feels between themselves and a famous person they do not know, a character in a book, film, TV series, etc., or an artificial intelligence
+small:of a limited size; little
+large:of considerable or relatively great size or extent
+truth:the quality or state of being true
+acquaintance:a person's knowledge or experience of something
+friend:a person whom one knows and with whom one has a bond of mutual affection
+enemy:a person who is actively opposed or hostile to someone or something
+open:allowing access, passage, or view
+close:to move something so that a space is blocked
+easy:achieved without great effort; presenting few difficulties
+hard:solid, firm, or rigid; difficult to do or understand
+start:to begin or be the beginning of something
+president:the elected head of a republic
+accept:to consent to receive or undertake (something offered)
+deny:to state that one refuses to admit the truth or existence of something
+answer:a reaction to a question, problem, or call
+question:a sentence worded or expressed so as to elicit information
+build:to construct something by putting parts together
+destroy:to put an end to the existence of something by damaging or attacking it
+calm:not showing or feeling nervousness, anger, or other strong emotions
+excited:very enthusiastic and eager
+clever:quick at learning and understanding things
+stupid:having or showing a great lack of intelligence or common sense
+cool:at a fairly low temperature; fashionable and attractive
+warm:having or giving out heat to a moderate degree
+create:to bring something into existence
+copy:to produce something identical or similar to
+danger:the possibility of suffering harm or injury
+safety:the condition of being protected from or unlikely to cause danger, risk, or injury
+deep:extending far down from the top or surface
+shallow:having only a short distance from the top to the bottom
+demand:an insistent and peremptory request
+offer:to present or propose something for someone to accept or reject
+depart:to leave, especially to start a journey
+arrive:to reach a place at the end of a journey
+empty:containing nothing
+full:containing or holding as much or as many as possible
+fast:moving or capable of moving at high speed
+future:the time or a period of time following the moment of speaking or writing
+past:the time that has gone by
+brave:ready to face and endure danger or pain; showing courage
+fear:an unpleasant emotion caused by the belief that someone or something is dangerous
+gain:to obtain or secure (something desired, favorable, or profitable)
+lose:to be deprived of or cease to have or retain (something)
+grace:courteous goodwill; elegant movement
+awkward:difficult to use or handle; causing embarrassment
+guilty:responsible for a specified wrongdoing
+innocent:not responsible for a specified wrongdoing
+harm:physical injury, especially that which is deliberately inflicted
+help:to make it easier or possible for someone to do something by offering them one's services
+include:to comprise or contain as part of a whole
+exclude:to deny someone access to or forbid someone from taking part in
+inside:on the inner side or part
+outside:on the outer side or part
+junior:of or denoting a lower rank or status
+senior:of or denoting a higher rank or status
+major:important, serious, or significant
+minor:less important, serious, or significant
+many:a large number of
+naivety:lack of experience, wisdom, or judgment
+melt:to make or become liquefied by heat
+freeze:to turn (a liquid) into ice or another solid as a result of extreme cold
+native:a person born in a specified place or associated with a place by birth
+foreign:of, from, in, or characteristic of a country or language other than one's own
+noisy:making a lot of noise
+quiet:making little or no noise
+ordinary:with no special or distinctive features; normal
+strange:unusual or surprising; difficult to understand or explain
+polite:behaving in a way that is respectful and considerate of others
+rude:offensively impolite or ill-mannered
+present:in a particular place, or at a particular time
+absent:not in a place where one is expected to be
+proud:feeling deep pleasure or satisfaction as a result of one's own achievements or the achievements of those with whom one is closely associated
+ashamed:embarrassed or guilty because of one's actions
+raise:to lift or move (something) to a higher position
+lower:to move or let down to a lower level
+rich:having a great deal of money or assets
+poor:lacking sufficient money to live at a standard considered comfortable or normal in a society
+rough:having an uneven or irregular surface
+smooth:having an even and regular surface; free from irregularities
+secure:fixed or attached firmly; protected against threats
+insecure:not firmly fixed or protected
+sell:to give or hand over (something) in exchange for money
+buy:to acquire something by paying for it
+sharp:having an edge or point that is able to cut or pierce
+dull:lacking interest or excitement; not sharp
+similar:resembling without being identical
+different:not the same as another or each other
+simple:easily understood or done
+complex:consisting of many different and connected parts
+soft:easy to mold, cut, compress, or fold; not hard or firm
+firm:solid, steady, or rigid
+thick:having a large distance between two sides or surfaces
+thin:having a small distance between opposite sides or surfaces
+tight:held or tied firmly in place; not loose
+loose:not firmly or tightly fixed in place
+omission:a person or thing that has been left out or excluded
+bottom:the lowest part of something
+up:towards a higher place
+down:towards a lower place
+victory:an act of defeating an enemy or opponent in a battle, game, or competition
+defeat:an act of losing a battle, game, or competition
+wide:of great or more than average width
+narrow:of small width
+awake:not asleep
+sleep:the natural state of rest during which the eyes are closed
+begin:to start; perform or undergo the first part of an action
+cease:to stop (existing or happening)
+borrow:to take and use (something belonging to someone else) with the intention of returning it
+lend:to grant to (someone) the use of (something) on the understanding that it will be returned
+capture:to take into one's possession or control by force
+free:to release from captivity or confinement
+certain:known for sure; established beyond doubt
+doubt:a feeling of uncertainty or lack of conviction
+create:to bring (something) into existence
+destroy:to put an end to the existence of (something) by damaging or attacking it
+cruel:willfully causing pain or suffering to others
+kind:having or showing a friendly, generous, and considerate nature
+expand:to become or make larger or more extensive
+contract:to decrease in size, number, or range
+export:to send goods or services to another country for sale
+import:to bring goods or services into a country from abroad for sale
+fail:to be unsuccessful in achieving one's goal
+succeed:to achieve the desired aim or result
+fresh:newly made or obtained; not stale or preserved
+stale:no longer fresh and pleasant to eat; old and not challenging
+generous:showing a readiness to give more of something than is necessary or expected
+selfish:lacking consideration for others; concerned only with one's own personal profit or pleasure
+ill:suffering from an illness or disease
+well:in good health; satisfactorily
+increase:to become or make greater in size, amount, or degree
+decrease:to become or make smaller or fewer in size, amount, or degree
+liquid:a substance that flows freely but is of constant volume
+solid:firm and stable in shape; not liquid or gaseous
+male:of or denoting the sex that produces small, typically motile gametes
+female:of or denoting the sex that can bear offspring or produce eggs
+obey:to carry out or fulfill (an order or instruction)
+disobey:to fail to conform to or follow (a rule or an instruction)
+permanently:for all time; forever
+temporarily:for a limited period of time; not permanently
+private:belonging to or for the use of one particular person or group
+public:of or concerning the people as a whole
+prudent:acting with or showing care and thought for the future
+reckless:without thinking or caring about the consequences of an action
+respect:a feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements
+disrespect:lack of respect or courtesy
+satisfy:to meet the expectations, needs, or desires of (someone)
+disappoint:to fail to fulfill the hope or expectation of (someone)
+scatter:to throw in various random directions
+gather:to bring together in a group or crowd
+strong:having the power to move heavy weights or perform other physical feats
+weak:lacking the power to perform physical feats; fragile
+trust:firm belief in the reliability, truth, ability, or strength of someone or something
+suspect:to believe to be true or likely without positive proof
+visible:able to be seen
+invisible:unable to be seen
+whisper:to speak very softly using one's breath rather than one's vocal cords
+shout:to utter a loud cry, typically of pain, triumph, or excitement
+whole:all of something
+part:a piece or segment of a whole
+worry:to feel or cause to feel anxious or troubled about actual or potential problems
+relax:to make or become less tense or anxious
+young:having lived or existed for only a short time
+old:having lived for a long time; no longer young
+absurd:wildly unreasonable, illogical, or inappropriate
+sane:of sound mind; not mad or mentally ill
+bravery:courageous behavior or character
+cowardice:lack of courage
+careful:exercising caution; avoiding rashness
+careless:not giving sufficient attention or thought to avoiding harm or errors
+cheap:low in price; worth little money
+expensive:costing a lot of money
+clean:free from dirt, marks, or stains
+dirty:covered or marked with an unclean substance
+common:occurring, found, or done often; not rare
+rare:not occurring very often; uncommon
+compulsory:required by law or a rule; obligatory
+voluntary:done or given willingly
+courage:the ability to do something that frightens one
+timidity:lack of courage or confidence
+credit:the ability of a customer to obtain goods or services before payment
+debt:a sum of money that is owed or due
+crucial:decisive or critical, especially in the success or failure of something
+unimportant:lacking in importance
+defend:to protect (someone or something) from attack
+attack:to take aggressive action against (a place or enemy forces)
+durable:able to withstand wear, pressure, or damage; hard-wearing
+fragile:easily broken or damaged
+efficient:achieving maximum productivity with minimum wasted effort or expense
+inefficient:not achieving maximum productivity
+endurance:the ability to keep doing something difficult, unpleasant, or painful for a long time
+fatigue:extreme tiredness, typically resulting from mental or physical exertion
+entrance:an opening, such as a door or gate, that allows access to a place
+exit:a way out, especially of a public building or vehicle
+equal:being the same in quantity, size, degree, or value
+unequal:not the same in quantity, size, degree, or value
+excuse:to attempt to lessen the blame attaching to (a fault or offense)
+blame:to assign responsibility for a fault or wrong
+expand:to become or make larger or more extensive
+shrink:to become smaller in size or amount
+external:of or relating to the outside of something
+internal:of or relating to the inside of something
+famous:known about by many people
+unknown:not known or familiar
+flexible:able to be easily modified to respond to altered circumstances
+rigid:unable to bend or be forced out of shape; not able to be changed or adapted
+forever:for all future time; eternally
+momentarily:for a very short time
+formal:done in accordance with rule or custom; suitable for an official occasion
+casual:relaxed and unconcerned
+frequent:occurring or done on many occasions
+seldom:not often; rarely
+graceful:having or showing grace or elegance
+clumsy:awkward in movement or handling things
+healthy:in good health
+sick:suffering from an illness or disease
+harmony:agreement or accord
+conflict:a serious disagreement or argument
+humble:having or showing a modest or low estimate of one's own importance
+arrogant:having or revealing an exaggerated sense of one's own importance
+hushed:very quiet and still
+loud:producing or capable of producing much noise
+ideal:satisfying one's conception of what is perfect
+imperfect:not perfect; faulty or incomplete
+ignorant:lacking knowledge or awareness in general; uneducated
+knowledgeable:intelligent and well-informed
+legal:relating to the law; permitted by law
+illegal:contrary to or forbidden by law
+lenient:of punishment or a person in authority, permissive, merciful, or tolerant
+strict:demanding that rules concerning behavior are obeyed and observed
+majority:the greater number
+minority:the smaller number or part
+massive:large and heavy or solid
+tiny:extremely small
+merge:to combine or blend together
+separate:to divide or dissociate
+moral:concerned with the principles of right and wrong behavior
+immoral:not conforming to accepted standards of morality
+movable:able to be moved
+fixed:fastened securely in one place
+mystery:something that is difficult or impossible to understand or explain
+fact:a thing that is known or proved to be true
+necessity:the fact of being required or indispensable
+luxury:an inessential, desirable item that is expensive or difficult to obtain
+optimist:a person who tends to be hopeful and confident about the future
+pessimist:a person who tends to see the worst aspect of things or believe that the worst will happen
+original:created personally by a particular artist, writer, musician, etc.; not a copy
+duplicate:an exact copy or replica
+permanent:lasting or intended to last or remain unchanged indefinitely
+temporary:lasting for only a limited period of time; not permanent
+peace:freedom from disturbance; tranquility
+war:a state of armed conflict between different countries or groups
+predecessor:a person who held a job or office before the current holder
+successor:a person or thing that succeeds another
+protect:to keep safe from harm or injury
+expose:to make something visible, typically by uncovering it
+receive:to be given, presented with, or paid (something)
+send:to cause to go or be taken to a particular destination
+regulate:to control or maintain the rate or speed of (a machine or process)
+disorder:a state of confusion or lack of order
+relevant:closely connected or appropriate to what is being done or considered
+irrelevant:not connected with or relevant to something
+responsible:having an obligation to do something, or having control over or care for someone
+irresponsible:not showing a proper sense of responsibility
+reward:a prize for an outstanding act or achievement
+punishment:the infliction or imposition of a penalty as retribution for an offense
+satisfaction:fulfillment of one's wishes, expectations, or needs
+discontent:lack of contentment; dissatisfaction
+scarcity:the state of being scarce or in short supply; shortage
+abundance:a very large quantity of something
+sense:a faculty by which the body perceives an external stimulus; good practical judgment
+nonsense:spoken or written words that have no meaning or make no sense
+source:a place, person, or thing from which something originates
+result:a consequence, effect, or outcome of something
+stable:not likely to give way or overturn; firmly fixed
+unstable:likely to give way or overturn; not firmly fixed
+superficial:existing or occurring at or on the surface
+profound:very great or intense; having or showing great knowledge or insight
+support:to bear all or part of the weight of; hold up
+oppose:to disapprove of and attempt to prevent (something), especially officially
+surprise:an unexpected or astonishing event or fact
+expect:to regard something as likely to happen
+transparent:allowing light to pass through so that objects behind can be distinctly seen
+opaque:not able to be seen through; not transparent
+uncommon:out of the ordinary; unusual
+frequent:occurring or done on many occasions
+unite:to join together for a common purpose
+divide:to separate into parts
+urban:in, relating to, or characteristic of a town or city
+rural:in, relating to, or characteristic of the countryside
+valuable:worth a great deal of money; important
+worthless:having no financial or practical value
+visible:able to be seen
+hidden:kept out of sight; concealed
+vivid:producing powerful feelings or strong, clear images in the mind
+faint:indistinctly seen or heard; weak
+wisdom:the quality of having experience, knowledge, and good judgment
+folly:lack of good sense; foolishness
+abandon:to cease to support or look after (someone); desert
+keep:to continue to have or hold (something)
+acquire:to buy or obtain (an asset or object) for oneself
+relinquish:to voluntarily cease to keep or claim; give up
+admit:to confess to be true or to be the case
+exclude:to deny someone access to or forbid someone from taking part in
+aid:to help, assist, or support someone or something
+hinder:to create difficulties for (someone or something), resulting in delay
+aloud:audibly; not silently
+silent:not making or accompanied by any sound
+ancient:belonging to the very distant past and no longer in existence
+modern:relating to the present or recent times
+appoint:to assign a job or role to (someone)
+dismiss:to order or allow to leave; fire from a job
+approve:to officially agree to or accept as satisfactory
+disapprove:to feel or express an unfavorable opinion about (something)
+artificial:made or produced by human beings rather than occurring naturally
+natural:existing in or derived from nature; not made by man
+ascend:to go up or climb
+descend:to move or fall downwards
+attach:to join or fasten (something) to something else
+detach:to separate or disengage (something)
+attract:to draw or entice by some action or property
+repel:to drive or keep away
+authorize:to give official permission for or consent to (an action or undertaking)
+forbid:to order someone not to do something
+benefit:an advantage or profit gained from something
+disadvantage:an unfavorable circumstance or condition
+blunt:having a worn-down edge or point; not sharp
+pointed:having a sharpened or tapered tip or end
+bold:showing a willingness to take risks; confident and courageous
+cautious:careful and concerned with avoiding risk
+boost:to help or encourage (something) to increase or improve
+decrease:to make or become smaller or fewer in size, amount, or degree
+broad:having a wide extent from side to side
+narrow:of small width
+compel:to force or oblige (someone) to do something
+persuade:to induce someone to do something through reasoning or argument
+consent:permission for something to happen or agreement to do something
+refuse:to indicate that one is not willing to do something
+convex:having an outline or surface curved like the exterior of a circle or sphere
+concave:having an outline or surface curved like the interior of a circle or sphere
+cooperate:to work jointly toward the same end
+compete:to strive against others to achieve an objective
+courteous:polite, respectful, or considerate in manner
+discourteous:showing rudeness and a lack of consideration for others
+curse:to use a magic word or phrase to bring bad luck
+bless:to confer divine favor upon
+decent:conforming with generally accepted standards of respectable or moral behavior
+indecent:not conforming with accepted standards of morality or propriety
+delicious:highly pleasant to the taste
+awful:extremely bad or unpleasant
+dense:closely compacted in substance
+sparse:thinly dispersed or scattered
+diligent:having or showing care and conscientiousness in one's work or duties
+lazy:unwilling to work or use energy
+distress:extreme anxiety, sorrow, or pain
+comfort:a state of physical ease and freedom from pain or constraint
+diverse:showing a great deal of variety
+uniform:remaining the same in all cases and at all times
+eager:strongly wanting to do or have something
+reluctant:unwilling and hesitant
+effective:successful in producing a desired or intended result
+ineffective:not producing any or the desired effect
+elastic:able to revert quickly to a former size or shape after being stretched or squeezed
+inelastic:not elastic
+encourage:to give support, confidence, or hope to someone
+discourage:to cause someone to lose confidence or enthusiasm
+essential:absolutely necessary
+unnecessary:not required
+eternal:lasting or existing forever
+temporary:lasting for only a limited period of time
+evident:plain or obvious; clearly seen or understood
+unclear:not clear or distinct
+famous:known about by many people
+obscure:not discovered or known about; uncertain
+feeble:lacking physical strength, especially as a result of age or illness
+robust:strong and healthy
+fluent:able to express oneself easily and articulately
+stutter:to speak with difficulty, typically repeating initial sounds
+foe:an enemy or opponent
+ally:a state or person formally cooperating with another for a military or other purpose
+frequent:occurring or done on many occasions
+infrequent:not occurring often
+general:affecting or concerning all or most people or things
+specific:clearly defined or identified
+genuine:truly what something is said to be; authentic
+counterfeit:made in exact imitation of something valuable or important with the intention to deceive
+graceful:having or showing grace or elegance
+gauche:lacking ease or grace; socially awkward
+grant:to agree to give or allow (something requested) to
+withhold:to refrain from giving (something due, desired, or promised)
+guarantee:a formal promise or assurance that certain conditions will be fulfilled
+risk:a situation involving exposure to danger
+habitual:done constantly or regularly
+occasional:occurring, appearing, or done infrequently and irregularly
+humane:having or showing compassion or benevolence
+cruel:willfully causing pain or suffering to others
+humble:having or showing a modest or low estimate of one's own importance
+vain:having or showing an excessively high opinion of one's appearance, abilities, or worth
+immense:extremely large or great
+small:of a limited size; little
+imply:to suggest something without explicitly stating it
+state:to express something definitely or clearly
+initial:existing or occurring at the beginning
+final:coming at the end of a series of actions
+innate:inborn; natural
+acquired:developed or learned
+inspire:to fill someone with the urge or ability to do or feel something
+depress:to make someone feel utterly dispirited or dejected
+just:based on or behaving according to what is morally right and fair
+unjust:not based on or behaving according to what is morally right and fair
+know:to be aware of through observation, inquiry, or information
+ignore:to intentionally disregard or pay no attention to
+luminous:emitting or reflecting light; shining
+dark:having little or no light
+major:important, serious, or significant
+minor:less important, serious, or significant
+merit:the quality of being particularly good or worthy
+fault:an undesirable or negative characteristic
+mobile:able to move or be moved freely or easily
+immobile:not able to be moved
+monotonous:dull, tedious, and repetitious; lacking in variety and interest
+varied:incorporating a number of different types or elements
+mortal:certain to die eventually
+immortal:living forever
+numerous:a large number of
+scarce:in short supply
+obedient:complying or willing to comply with an order or request
+naughty:disobedient or mischievously playful
+optimistic:hopeful and confident about the future
+gloomy:causing or feeling depression or pessimism
+permanent:lasting or intended to last or remain unchanged indefinitely
+temporary:lasting for only a limited period of time
+permit:to officially allow (someone) to do something
+prohibit:to formally forbid (something) by law, rule, or other authority
+plus:in addition to; more than
+minus:reduced by; less than
+possible:able to be done; within the power or capacity of someone or something
+impossible:not able to occur, exist, or be done
+praise:to express approval or admiration of
+criticize:to indicate the faults of (someone or something) in a disapproving way
+esoteric:intended for or likely to be understood by only a small number of people with a specialized knowledge or interest
+inscrutable:impossible to understand or interpret
+neophyte:a person who is new to a subject, skill, or belief
+paradigm:a typical example or pattern of something; a model
+vociferous:expressing feelings or opinions in a loud and forceful way
+alacrity:brisk and cheerful readiness
+proclivity:a tendency to choose or do something regularly; an inclination or predisposition
+surfeit:an excessive amount of something
+tenuous:very weak or slight
+zephyr:a soft gentle breeze
+admonish:to warn or reprimand someone firmly
+paucity:the presence of something only in small or insufficient quantities or amounts
+replete:filled or well-supplied with something
+soporific:tending to induce drowsiness or sleep
+tome:a book, especially a large, heavy, scholarly one
+venerable:accorded a great deal of respect, especially because of age, wisdom, or character
+wry:using or expressing dry, especially mocking, humor
+ameliorate:to make (something bad or unsatisfactory) better
+dogmatic:inclined to lay down principles as undeniably true
+euphemism:a mild or indirect word or expression substituted for one considered to be too harsh or blunt
+iconoclast:a person who attacks cherished beliefs or institutions
+laconic:using very few words
+maudlin:self-pityingly or tearfully sentimental
+obfuscate:to make obscure, unclear, or unintelligible
+piquant:having a pleasantly sharp taste or appetizing flavor
+quandary:a state of perplexity or uncertainty over what to do in a difficult situation
+recant:to say that one no longer holds an opinion or belief
+stultify:to cause someone to feel dull or frustrated
+tractable:easy to control or influence
+vicarious:experienced in the imagination through the feelings or actions of another person
+absolution:formal release from guilt, obligation, or punishment
+curmudgeon:a bad-tempered or surly person
+enervate:to cause (someone) to feel drained of energy or vitality
+fatuous:silly and pointless
+impinge:to have an effect or make an impression, often a negative one
+inure:to accustom (someone) to something, especially something unpleasant
+largesse:generosity in bestowing money or gifts upon others
+mutable:liable to change
+nascent:just coming into existence and beginning to display signs of future potential
+obviate:to anticipate and prevent or remove (a difficulty)
+plethora:a large or excessive amount of something
+querulous:complaining in a petulant or whining manner
+raconteur:a person who tells anecdotes in a skillful and amusing way
+sentient:able to perceive or feel things
+torpid:mentally or physically inactive; lethargic
+unctuous:excessively or ingratiatingly flattering
+vapid:offering nothing that is stimulating or challenging
+winnow:to reduce a group of people or things in number
+aberrant:departing from an accepted standard
+cajole:to persuade someone to do something by sustained flattery
+dearth:a scarcity or lack of something
+epicurean:devoted to sensual enjoyment, especially that derived from fine food and drink
+garrulous:excessively talkative, especially on trivial matters
+hackneyed:lacking significance through having been overused; unoriginal
+impudent:not showing due respect for another person; impertinent
+jejune:naive, simplistic, and superficial
+kowtow:to act in an excessively subservient manner
+limpid:unclouded; perfectly clear
+mendacious:not telling the truth; lying
+nettle:to irritate or annoy (someone)
+obdurate:stubbornly refusing to change one's opinion or course of action
+penchant:a strong or habitual liking for something or tendency to do something
+ratiocination:the process of exact thinking; reasoning
+sycophant:a person who acts obsequiously to gain advantage
+travesty:a false, absurd, or distorted representation of something
+ubiquity:the fact of appearing everywhere or of being very common
+verisimilitude:the appearance of being true or real
+wanton:deliberate and unprovoked; sexually unrestrained
+xenophobia:dislike of or prejudice against people from other countries
+yawn:to open one's mouth wide and inhale deeply due to tiredness
+zest:great enthusiasm and energy
+baleful:threatening harm; menacing
+conflagration:an extensive fire which destroys a great deal of land or property
+delineate:to describe or portray (something) precisely
+effusive:expressing feelings of gratitude, pleasure, or approval in an unrestrained manner
+foment:to instigate or stir up (an undesirable sentiment or course of action)
+germane:relevant to a subject under consideration
+histrionics:exaggerated dramatic behavior designed to attract attention
+inchoate:just begun and so not fully formed or developed
+juxtaposition:the fact of two things being seen or placed close together with contrasting effect
+kismet:destiny; fate
+lachrymose:tearful or given to weeping
+maladroit:ineffective or clumsy
+nebulous:unclear, vague, or ill-defined
+ossify:to turn into bone; to become rigid or fixed in attitude
+pariah:an outcast
+quixotic:exceedingly idealistic; unrealistic and impractical
+salutary:producing beneficial effects
+trepidation:a feeling of fear or agitation about something that may happen
+unfrock:to deprive (a person in holy orders) of ecclesiastical rank
+valedictory:bidding farewell
+fulmination:an expression of vehement protest
+impecunious:having little or no money
+jocund:cheerful and lighthearted
+lamentation:the passionate expression of grief or sorrow
+puerile:childishly silly and trivial
+recalcitrant:having an obstinately uncooperative attitude toward authority
+sagacious:having or showing keen mental discernment and good judgment
+tendentious:expressing or favoring a particular cause; biased
+unscrupulous:having or showing no moral principles
+vacillate:to waver between different opinions or actions
+gourmand:a person who enjoys eating and often eats too much
+chicanery:the use of trickery to achieve a political, financial, or legal purpose
+cynical:believing that people are motivated purely by self-interest
+disparate:essentially different in kind; not allowing comparison
+exigent:pressing; demanding
+flaccid:soft and limp; lacking vigor
+gregarious:fond of company; sociable
+hedonism:the pursuit of pleasure; sensual self-indulgence
+invective:insulting, abusive, or highly critical language
+jargon:specialized language used by a particular group
+loquacious:tending to talk a great deal
+mellifluous:sweet or musical; pleasant to hear
+nonplus:to surprise and confuse someone so much that they are unsure how to react
+obloquy:strong public criticism or verbal abuse
+penury:the state of being extremely poor; destitution
+quiescence:a state or period of inactivity or dormancy
+ribald:referring to sexual matters in an amusingly coarse or irreverent way
+solipsistic:the view that only one's own mind is sure to exist
+truculent:eager or quick to argue or fight; aggressively defiant
+abrogate:to repeal or do away with (a law, right, or formal agreement)
+capricious:given to sudden and unaccountable changes of mood or behavior
+declaim:to utter or deliver words or a speech in a rhetorical or impassioned way
+egregious:outstandingly bad; shocking
+fallacious:based on a mistaken belief
+gossamer:something very light, thin, and insubstantial
+halcyon:denoting a period of time in the past that was idyllically happy and peaceful
+ignominy:public shame or disgrace
+inimical:tending to obstruct or harm; unfriendly
+kudos:praise and honor received for an achievement
+languid:slow and relaxed; lacking spirit or energy
+moribund:at the point of death
+nadir:the lowest point in the fortunes of a person or organization
+obsequious:obedient or attentive to an excessive or servile degree
+pellucid:easily understood; translucent
+polemical:relating to or involving strongly critical or controversial writing or speech
+quaff:to drink (an alcoholic beverage) heartily
+recondite:little known; abstruse
+sardonic:grimly mocking or cynical
+titillate:to stimulate or excite (someone) pleasurably
+turbid:cloudy, opaque, or thick with suspended matter
+vilify:to speak or write about in an abusively disparaging manner
+wistful:having or showing a feeling of vague or regretful longing
+apotheosis:the highest point in the development of something; the glorification of a subject
+blandishment:a flattering or pleasing statement or action used to persuade someone gently
+consecrate:to make or declare (something, typically a church) sacred
+demagogue:a political leader who seeks support by appealing to popular desires and prejudices
+effrontery:shameless boldness
+extol:to praise enthusiastically
+furtive:attempting to avoid notice or attention; secretive
+gaucherie:awkward or tactless behavior
+harangue:a lengthy and aggressive speech
+imperturbable:unable to be upset or excited; calm
+insipid:lacking flavor or interest
+lacerate:to tear or deeply cut (flesh or skin)
+mandarin:a powerful official or public servant
+myopic:lacking imagination, foresight, or intellectual insight
+noisome:having an extremely offensive smell
+opulent:rich and luxurious
+paradoxical:seemingly absurd or contradictory
+philistine:a person hostile or indifferent to culture and the arts
+quibble:a slight objection or criticism
+remuneration:money paid for work or service
+solace:comfort or consolation in a time of distress
+surly:bad-tempered and unfriendly
+transient:lasting only for a short time
+unassailable:unable to be attacked, questioned, or defeated
+vex:to make (someone) feel annoyed or frustrated
+alacrity:brisk and cheerful readiness
+bombastic:high-sounding but with little meaning; inflated
+circumspection:the quality of being wary and unwilling to take risks
+deleterious:causing harm or damage
+elegy:a mournful poem, especially one lamenting the dead
+expunge:to erase or remove completely (something unwanted or unpleasant)
+fecundity:the ability to produce an abundance of new growth or offspring; fertility
+germinate:to begin to grow and put out shoots
+hegemony:leadership or dominance, especially by one state over others
+inculcate:to instill (an idea, attitude, or habit) by persistent instruction
+inimitable:so good or unusual as to be impossible to copy; unique
+jettison:to throw or drop (something) from an aircraft or ship
+licentious:promiscuous and unprincipled in sexual matters
+maverick:an unorthodox or independent-minded person
+nostrum:a medicine, especially one not prepared by a professional
+obtuse:annoyingly insensitive or slow to understand
+palliative:relieving pain without dealing with the cause of the condition
+petulant:childishly sulky or bad-tempered
+profligate:recklessly extravagant or wasteful in the use of resources
+quixotry:an act or instance of being exceedingly idealistic; impracticality
+repudiate:to refuse to accept or be associated with
+subterfuge:deceit used in order to achieve one's goal
+talisman:an object thought to have magic powers or bring good luck
+unprecedented:never done or known before
+vicissitudes:a change of circumstances or fortune, typically unwelcome
+vituperate:to blame or insult (someone) in strong or violent language
+wraith:a ghost or ghostlike image of someone
+abscond:to leave hurriedly and secretly, typically to avoid detection
+benighted:in a state of moral or intellectual darkness
+contingency:a future event or circumstance that is possible but cannot be predicted with certainty
+didactic:intended to teach, particularly in having a moral instruction
+enigma:a person or thing that is mysterious or difficult to understand
+fastidious:very attentive to and concerned about accuracy and detail
+glower:to have an angry or sullen look on one's face
+hagiography:the writing of the lives of saints; an idolizing biography
+infallible:incapable of making mistakes or being wrong
+intransigent:unwilling or refusing to change one's views or agree about something
+jingoism:extreme patriotism, especially in the form of aggressive foreign policy
+lassitude:a state of physical or mental weariness; lack of energy
+malapropism:the mistaken use of a word in place of a similar-sounding one
+munificent:lavish generosity
+nefarious:wicked or criminal
+oblivious:not aware of or not concerned about what is happening around one
+panacea:a solution or remedy for all difficulties or diseases
+perfunctory:carried out with a minimum of effort or reflection
+prognosis:a forecast of the likely course of a disease or situation
+rebarbative:unattractive and objectionable
+surreptitious:kept secret, especially because it would not be approved of
+temerity:excessive confidence or boldness; audacity
+unwieldy:difficult to carry or manage because of its size or shape
+veracity:conformity to facts; accuracy
+abjure:to solemnly renounce (a belief, cause, or claim)
+capitulate:to cease to resist an opponent or an unwelcome demand
+chastise:to rebuke or reprimand severely
+clairvoyance:the faculty of seeing things in the future or beyond normal sensory contact
+dichotomy:a division or contrast between two things that are or are represented as being opposed
+ephemeral:lasting for a very short time
+fortuitous:happening by accident or chance, typically a lucky chance
+grotto:a small picturesque cave
+hermetic:complete and airtight; isolated from outside influence
+incipient:in an initial stage; beginning to happen or develop
+irascible:having or showing a tendency to be easily angered
+jettison:to throw or drop (something) from an aircraft or ship; abandon
+lexicon:the vocabulary of a person, language, or branch of knowledge
+mercurial:subject to sudden or unpredictable changes of mood or mind
+noisome:having an extremely offensive smell
+overweening:showing excessive confidence or pride
+portend:to be a sign or warning that (something momentous) is likely to happen
+putative:generally considered or reputed to be
+ramification:a complex consequence of an action or event
+sagacity:the quality of being sagacious (wise)
+turgid:swollen and distended or congested; excessively complex
+ubiquitous:present, appearing, or found everywhere
+vacuous:having or showing a lack of thought or intelligence; empty
+winsome:attractive or appealing in a fresh, innocent way
+yore:of long ago or former times
+zeitgeist:the defining spirit or mood of a particular period of history
+anachronism:a thing belonging or appropriate to a period other than that in which it exists
+beguile:to charm or enchant (someone), sometimes in a deceptive way
+conduit:a channel for conveying water or other fluid; a means of transmission
+denouement:the final part of a play, film, or narrative in which the strands of the plot are drawn together
+dissemble:to conceal one's true motives or feelings
+excoriate:to criticize severely
+fiasco:a complete failure, especially a ludicrous or humiliating one
+fulsome:complimentary or flattering to an excessive degree
+heterogeneous:diverse in character or content
+incongruous:not in harmony or keeping with the surroundings or other aspects of something
+inculpate:to charge with wrong or guilt
+juncture:a particular point in events or time
+laudatory:expressing praise
+misanthrope:a person who dislikes humankind and avoids human society
+obfuscation:the action of making something obscure, unclear, or unintelligible
+parsimonious:unwilling to spend money or use resources; stingy
+peripatetic:traveling from place to place, especially working or teaching
+prevaricate:to speak or act in an evasive way
+quell:to put an end to (a rebellion or other disorder), typically by the use of force
+redoubtable:formidable, especially as an opponent
+solicitous:characterized by or showing interest or concern
+stentorian:loud and powerful (of a person's voice)
+supercilious:behaving or looking as though one thinks one is superior to others
+surmise:to suppose that something is true without having evidence
+transgress:to infringe or violate (a law or moral code)
+unilateral:performed by or affecting only one person, group, or country involved in a situation
+venial:regarded as excusable; minor (of a fault or offense)
+abject:extremely bad, unpleasant, and degrading
+churlish:rude in a mean-spirited and surly way
+concur:to agree with or happen simultaneously
+disingenuous:not candid or sincere, typically by pretending that one knows less about something than one really does
+egress:the action or an instance of going out or leaving a place
+fastidiousness:the quality of being attentive to and concerned about accuracy and detail
+gregariousness:the quality of being fond of company; sociability
+haphazard:lacking any obvious principle of organization
+impeccable:in accordance with the highest standards of propriety; faultless
+inscrutability:the quality of being impossible to understand or interpret
+jargonelle:a variety of pear
+loll:to sit, lie, or hang in a relaxed, lazy way
+mawkish:excessively sentimental in a sickly way
+non sequitur:a conclusion or statement that does not logically follow from the previous statement
+obfuscatory:tending to make obscure or unclear
+pithy:brief, forceful, and meaningful in expression
+propinquity:the state of being close to someone or something; proximity
+quintessence:the most perfect or typical example of a quality or class
+repartee:conversation or replies that are quick, witty, and amusing
+sentientism:the belief that all sentient beings have rights
+tacit:understood or implied without being stated
+trenchant:vigorous or incisive in expression or style
+untenable:not able to be maintained or defended against attack or objection
+vilification:the act of speaking or writing about in an abusively disparaging manner
+visceral:relating to deep inward feelings rather than intellect
+wont:one's customary behavior in a particular situation
+yeoman:a man holding and cultivating a small landed estate
+zodiacal:relating to the zodiac
+anathema:something or someone that one vehemently dislikes
+bifurcation:the division of something into two branches or parts
+chastisement:the act of rebuking or reprimanding severely
+contumely:insulting language or treatment
+delectation:pleasure and delight
+diaphanous:light, delicate, and translucent
+equanimity:calmness and composure, especially in a difficult situation
+exigency:an urgent need or demand
+fiduciary:involving trust, especially with regard to the relationship between a trustee and a beneficiary
+grandiloquent:pompous or extravagant in language, style, or manner
+indefatigable:persisting tirelessly
+inviolable:never to be broken, infringed, or dishonored
+litany:a tedious recital or repetitive series
+ludicrous:so foolish, unreasonable, or out of place as to be amusing; ridiculous
+maelstrom:a powerful whirlpool; a state of confused movement or violent turmoil
+moratorium:a temporary prohibition of an activity
+noxious:harmful, poisonous, or very unpleasant
+ostentatious:characterized by vulgar or pretentious display; designed to impress
+palliative:serving to relieve pain or symptoms without dealing with the underlying cause
+penurious:extremely poor; poverty-stricken
+plebeian:of or belonging to the common people of ancient Rome; crude or common
+proscribe:to forbid, especially by law
+quandaries:a state of perplexity or uncertainty over what to do
+recalcitrance:the quality of having an obstinately uncooperative attitude
+sanguineous:of or relating to blood
+stigma:a mark of disgrace associated with a particular circumstance, quality, or person
+sublime:of such excellence, grandeur, or beauty as to inspire great admiration
+superfluity:an unnecessarily large amount or number of something
+transmute:to change in form, nature, or substance
+unfettered:released from restraint or inhibition
+vacillation:the inability to decide between different opinions or actions
+vindictive:having or showing a strong or unreasoning desire for revenge
+alacrity:brisk and cheerful readiness
+cacophony:a harsh, discordant mixture of sounds
+depredation:an act of attacking or plundering
+epistle:a letter
+exoneration:the action of officially absolving someone from blame
+flout:to openly disregard (a rule, law, or convention)
+gibbous:of the moon, having the observable illuminated part greater than a semicircle and less than a circle
+halcyon:denoting a period of time in the past that was idyllically happy and peaceful
+impute:to assign (something, especially an undesirable one) to someone
+inchoation:the beginning of an act or crime
+juxtapose:to place or deal with close together for contrasting effect
+kerfuffle:a noisy disturbance or fuss
+languor:the state or feeling of tiredness or inertia
+maelstrom:a powerful whirlpool; a state of confused movement or violent turmoil
+miscreant:a person who has done something wrong or unlawful
+nonchalant:feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm
+obsequiousness:the state of being obedient or attentive to an excessive or servile degree
+palliative:serving to relieve pain or symptoms without dealing with the underlying cause
+pecuniary:relating to or consisting of money
+perspicacious:having a ready insight into and understanding of things
+quiescent:in a state or period of inactivity or dormancy
+reticent:not revealing one's thoughts or feelings readily
+sedulous:showing dedication and diligence
+spurious:not being what it purports to be; false or fake
+surly:bad-tempered and unfriendly
+tome:a book, especially a large, heavy, scholarly one
+unwitting:not aware of the full facts
+valorous:having or showing courage
+vitriol:cruel and bitter criticism
+wizen:to cause to wrinkle or shrivel
+yahoo:a rude, noisy, or violent person
+zenith:the time at which something is most powerful or successful
+adroit:clever or skillful in using hands or mind
+brio:vigor or vivacity of style or performance
+cabal:a secret political faction or clique
+decimate:to kill, destroy, or remove a large percentage of
+dudgeon:a feeling of offense or resentment
+elucidate:to make (something) clear; explain
+fatuity:something foolish or stupid
+genial:friendly and cheerful
+harridan:a bossy, aggressive, or temperamental woman
+idiosyncratic:peculiar or individual
+insouciance:casual lack of concern
+knavery:unprincipled, untrustworthy, or dishonest dealing
+lambent:softly bright or radiant
+languish:to grow weak or feeble
+machination:a scheming or crafty action or artful design intended to accomplish some usually ill end
+nascent:just coming into existence and beginning to display signs of future potential
+obviate:to anticipate and prevent or remove (a difficulty)
+pastiche:an artistic work in a style that imitates that of another work, artist, or period
+pedantic:excessively concerned with minor details or rules
+penury:the state of being extremely poor; destitution
+phlegmatic:having an unemotional and stolidly calm disposition
+platitude:a remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful
+probity:the quality of having strong moral principles; honesty and decency
+promulgate:to promote or make widely known (an idea or cause)
+propinquity:the state of being close to someone or something; proximity
+querulous:complaining in a petulant or whining manner
+rancorous:characterized by bitterness or resentment
+recalcitrant:having an obstinately uncooperative attitude toward authority
+reprobate:an unprincipled person
+respite:a short period of rest or relief from something difficult or unpleasant
+ribaldry:amusingly indecent or offensive talk or behavior
+stentorian:loud and powerful (of a person's voice)
+stygian:of or relating to the river Styx and the underworld; dark and dismal
+subsume:to include or absorb (something) in something else
+surfeit:an excessive amount of something
+surreptitious:kept secret, especially because it would not be approved of
+temerarious:recklessly daring
+tenuous:very weak or slight; flimsy
+torpid:mentally or physically inactive; lethargic
+trenchant:vigorous or incisive in expression or style
+truculence:the quality of being aggressively defiant
+ubiquity:the fact of being everywhere at the same time
+unbidden:without having been commanded or invited
+unilateral:performed by or affecting only one person, group, or country involved in a situation
+vacillate:to waver between different opinions or actions
+vapid:offering nothing that is stimulating or challenging
+venal:susceptible to bribery
+verisimilitude:the appearance of being true or real
+verity:a true principle or belief, especially one of fundamental importance
+vicarious:experienced in the imagination through the feelings or actions of another person
+vilify:to speak or write about in an abusively disparaging manner
+vituperative:bitter and abusive
+wryness:the quality of using dry, mocking humor
+yoke:a burden or something that oppresses
+zealotry:fanatical and uncompromising pursuit of religious, political, or other ideals
+abeyance:a state of temporary disuse or suspension
+absolution:formal release from guilt, obligation, or punishment
+anodyne:a painkilling drug or medicine; something that soothes or calms
+apothegm:a concise saying or maxim
+apotheosis:the highest point in the development of something; the glorification of a subject
+bellicose:demonstrating aggression and willingness to fight
+blandishment:a flattering or pleasing statement or action used to persuade someone gently
+churl:a rude and grumpy person
+circumlocution:the use of many words where fewer would do, especially in a deliberate attempt to be vague
+confluence:the junction of two rivers; a flowing together of people or things
+contravene:to violate the prohibition or order of (a law, treaty, or code of conduct)
+cynic:a person who believes that people are motivated purely by self-interest
+deign:to do something that one considers to be beneath one's dignity
+deleterious:causing harm or damage
+derelict:in a very poor condition as a result of disuse and neglect
+diatribe:a forceful and bitter verbal attack against someone or something
+discomfit:to make (someone) uneasy or embarrassed
+doleful:expressing sorrow; mournful
+ebullience:the quality of being cheerful and full of energy
+efface:to erase (a mark) from a surface; to make oneself inconspicuous
+elegy:a mournful poem, especially one lamenting the dead
+encomium:a speech or piece of writing that formally praises someone or something
+epicure:a person devoted to sensual enjoyment, especially that derived from fine food and drink
+expiate:to atone for (guilt or sin)
+farrago:a confused mixture
+flummox:to perplex (someone) greatly; bewilder
+fulgurate:to flash like lightning
+fulsome:complimentary or flattering to an excessive degree
+gainsay:to deny or contradict (a fact or statement)
+halcyon:denoting a period of time in the past that was idyllically happy and peaceful
+harbinger:a person or thing that announces or signals the approach of another
+heuristic:enabling a person to discover or learn something for themselves
+immanent:existing or operating within; inherent
+impecuniosity:the state of having little or no money
+inscrutable:impossible to understand or interpret
+insipid:lacking flavor, vigor, or interest
+internecine:destructive to both sides in a conflict
+inure:to accustom (someone) to something, especially something unpleasant
+jejune:naive, simplistic, and superficial
+lachrymosity:the quality of being tearful or given to weeping
+liminal:relating to a transitional or initial stage of a process
+lugubrious:looking or sounding sad and dismal
+mawkish:excessively sentimental in a sickly way
+misanthrope:a person who dislikes humankind and avoids human society
+modicum:a small quantity of a particular thing, especially something desirable or valuable
+munificence:the quality or action of being lavishly generous
+narcissism:excessive interest in or admiration of oneself and one's physical appearance
+neologism:a newly coined word or expression
+obloquy:strong public criticism or verbal abuse
+ossify:to turn into bone; to become rigid or fixed in attitude
+paragon:a person or thing regarded as a perfect example of a particular quality
+parochial:having a limited or narrow outlook or scope
+pathos:a quality that evokes pity or sadness
+pejorative:expressing contempt or disapproval
+perfidious:deceitful and untrustworthy
+perspicuity:clearness or lucidity, as of a statement
+philippic:a bitter verbal attack
+pique:a feeling of irritation or resentment resulting from a slight
+plenipotentiary:a person, especially an ambassador, invested with full power to transact business
+polemic:a strong verbal or written attack on someone or something
+precipitate:to cause (an event or situation, typically one that is bad or undesirable) to happen suddenly
+preclude:to prevent from happening; make impossible
+proclivity:a tendency to choose or do something regularly; an inclination or predisposition
+proboscis:the long flexible snout of an animal, such as the elephant
+proscribe:to forbid, especially by law
+quandary:a state of perplexity or uncertainty over what to do in a difficult situation
+quiescent:in a state or period of inactivity or dormancy
+quixotic:exceedingly idealistic; unrealistic and impractical
+rambunctious:uncontrollably exuberant; boisterous
+rancor:bitterness or resentfulness, especially when long-standing
+recapitulate:to summarize and state again the main points
+redoubtable:formidable, especially as an opponent
+refulgent:shining brightly
+remonstrate:to make a forceful reproach
+repartee:conversation or replies that are quick, witty, and amusing
+repose:a state of rest, sleep, or tranquility
+reprobation:strong condemnation
+reticent:not revealing one's thoughts or feelings readily
+ruminate:to think deeply about something
+sagacious:having or showing keen mental discernment and good judgment
+salubrious:health-giving; healthy
+sanctimonious:making a show of being morally superior to other people
+sanguine:optimistic or positive, especially in an apparently bad or difficult situation
+sardonic:grimly mocking or cynical
+schism:a split or division between strongly opposed sections or parties
+scintilla:a tiny trace or speck
+scurrilous:making or spreading scandalous claims about someone with the intention of damaging their reputation
+sedulous:showing dedication and diligence
+sentient:able to perceive or feel things
+solecism:a grammatical mistake; a piece of incorrect behavior
+soporific:tending to induce drowsiness or sleep
+specious:superficially plausible, but actually wrong
+stolid:calm, dependable, and showing little emotion or animation
+subterfuge:deceit used in order to achieve one's goal
+supercilious:behaving or looking as though one thinks one is superior to others
+surmise:to suppose that something is true without having evidence
+sycophant:a person who acts obsequiously to gain advantage
+taciturn:reserved or uncommunicative in speech; saying little
+temerity:excessive confidence or boldness; audacity
+tendentious:expressing or favoring a particular cause; biased
+tenet:a principle or belief, especially one of the main principles of a religion or philosophy
+torpor:a state of physical or mental inactivity; lethargy
+transmute:to change in form, nature, or substance
+trenchancy:vigor or incisiveness of style
+truculent:aggressively defiant
+umbrage:offence or annoyance
+unctuous:excessively or ingratiatingly flattering
+unfettered:released from restraint or inhibition
+untenable:not able to be maintained or defended against attack or objection
+vapidity:the quality of being dull, uninteresting, or spiritless
+veneer:an attractive appearance that covers or disguises someone's true nature
+verisimilitude:the appearance of being true or real
+viable:capable of working successfully; feasible
+vicarious:experienced in the imagination through the feelings or actions of another person
+vindication:the action of clearing someone of blame or suspicion
+vitriolic:full of bitterness or malice
+vociferous:expressing feelings or opinions in a loud and forceful way
+wantonness:the quality of being deliberate and unprovoked; excessive indulgence
+wistful:having or showing a feeling of vague or regretful longing
+xenophobic:having or showing a dislike of or prejudice against people from other countries
+yore:of long ago or former times
+zeitgeist:the defining spirit or mood of a particular period of history
+zestful:full of great enthusiasm and energy
+ludicrous:so foolish, unreasonable, or out of place as to be amusing; ridiculous
+machination:a scheming or crafty action or artful design
+maelstrom:a powerful whirlpool; a state of confused movement or violent turmoil
+malaise:a general feeling of discomfort, illness, or uneasiness whose exact cause is difficult to identify
+malapropism:the mistaken use of a word in place of a similar-sounding one
+mandarin:a powerful official or public servant
+mawkish:excessively sentimental in a sickly way
+meander:to wander aimlessly
+mendacious:not telling the truth; lying
